@@ -25,7 +25,7 @@ The primary goals of this project are:
 ## **Technologies Used**  
 This project leverages the following tools and technologies:  
 
-- **Python**: For data manipulation, analysis, and machine learning tasks.  
+- **Python**: For data manipulation and analysis.  
 - **Pandas**: For data cleaning, preprocessing, and exploratory data analysis.  
 - **NumPy**: For numerical operations and handling large datasets.  
 - **Matplotlib**: For creating graphs and visualizing trends.  
